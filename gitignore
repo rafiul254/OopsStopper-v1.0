@@ -1,0 +1,46 @@
+# Arduino gitignore file
+
+# Compiled files
+*.o
+*.hex
+*.elf
+*.eep
+*.lss
+*.map
+*.sym
+*.d
+
+# Build directories
+build/
+.build/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-*
+
+# Arduino IDE
+*.ino.cpp
+*.ino.hex
+*.ino.eep
+*.ino.elf
+*.ino.map
+
+# Mac specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.temp
+
+# Log files
+*.log
