@@ -7,6 +7,16 @@ A table safety robot built with Arduino that autonomously navigates surfaces usi
 OopsStopper v1.0 is an autonomous edge detection robot designed to safely navigate on elevated surfaces. Using real-time IR sensor input, the robot detects table edges and automatically adjusts its path to avoid falling, making it ideal for robotics education and IoT applications.
 
 
+# 🎥 Demo Video
+
+Watch the project demo on YouTube:
+
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/E52RMUhqKQ4?si=k5gx0uPpEyDflWEi)
+
+
+---
+
+
 ## Features
 
 - Autonomous forward navigation on flat surfaces
@@ -154,7 +164,8 @@ This project provided practical experience in:
 
 
 ## Author
-"Rafiul Islam"  
+"Rafiul Islam"
+University of Frontier Technology, Bangladesh. 
 GitHub: https://github.com/rafiul254
 
 ## Acknowledgments
